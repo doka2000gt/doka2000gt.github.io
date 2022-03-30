@@ -1,1 +1,4 @@
-# doka2000gt.github.io
+MDwiki
+======
+
+See http://www.mdwiki.info/ for more documentation and details.
