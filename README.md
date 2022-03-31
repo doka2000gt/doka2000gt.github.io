@@ -1,4 +1,4 @@
-MDwiki
+doka2000gt.github.io
 ======
 
-See http://www.mdwiki.info/ for more documentation and details.
+個人的な書き散らしです。
