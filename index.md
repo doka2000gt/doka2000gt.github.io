@@ -1,4 +1,4 @@
-MDwiki
+メモwiki
 ======
 
-See http://www.mdwiki.info/ for more documentation and details.
+ここに、自分用メモを書き足していきますよ。
