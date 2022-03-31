@@ -2,3 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+
+body{
+	width: 100%;
+}
+.site-header{
+    display: flex;
+    padding: 20px 5px;
+    position: fixed;
+    justify-content: space-between;
+    width: 100%;
+}
